@@ -62,9 +62,9 @@ This page focuses on driver performance analysis.
   Tracks delivery efficiency over time.
 
 # Insights
-•	Some drivers with lower experience still achieve high performance ratings
-•	A few drivers contribute disproportionately to delivery delays
-•	Delivery performance fluctuates across months, suggesting seasonal operational challenges
+-	Some drivers with lower experience still achieve high performance ratings
+-	A few drivers contribute disproportionately to delivery delays
+-	Delivery performance fluctuates across months, suggesting seasonal operational challenges
 
 # Hubs Overview
 This page analyzes hub performance and processing efficiency.
