@@ -92,9 +92,9 @@ This page analyzes hub performance and processing efficiency.
 # Vehicles Overview
 This page focuses on fleet performance and vehicle reliability.
 # Metrics
-•	Total Vehicles
-•	Active Vehicles
-•	Vehicles in Maintenance
+-	Total Vehicles
+-	Active Vehicles
+-	Vehicles in Maintenance
 
 # Key Visualizations
 - Vehicle Age vs Breakdown Analysis
@@ -105,10 +105,10 @@ This page focuses on fleet performance and vehicle reliability.
 - Highlights vehicles that require frequent repairs.
 
 # Insights
-•	Older vehicles experience significantly more breakdowns
-•	Freightliner M2 and Mercedes Sprinter handle the largest number of orders
-•	Trucks dominate logistics operations, handling nearly 65% of deliveries
-•	Vehicles in maintenance (26%) could impact delivery efficiency
+-	Older vehicles experience significantly more breakdowns
+-	Freightliner M2 and Mercedes Sprinter handle the largest number of orders
+-	Trucks dominate logistics operations, handling nearly 65% of deliveries
+-	Vehicles in maintenance (26%) could impact delivery efficiency
 
 # Key Business Insights
 1. Delivery Efficiency
