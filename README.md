@@ -46,10 +46,10 @@ This page provides a high-level summary of logistics performance.
 # Drivers Overview
 This page focuses on driver performance analysis.
 # Metrics Analyzed
-•	Total Drivers
-•	Driver Experience vs Performance Rating
-•	Drivers with highest delivery delays
-•	Individual driver delivery statistics
+-	Total Drivers
+-	Driver Experience vs Performance Rating
+-	Drivers with highest delivery delays
+-	Individual driver delivery statistics
 
 # Key Visualizations
 - Experience vs Rating (Scatter Plot)
