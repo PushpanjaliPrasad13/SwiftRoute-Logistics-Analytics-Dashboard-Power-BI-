@@ -38,10 +38,10 @@ The dashboard contains four main analytical sections:
 This page provides a high-level summary of logistics performance.
 
 # Features
-•	KPI performance tracking
-•	Order distribution across hubs
-•	Driver performance overview
-•	Vehicle utilization summary
+-	KPI performance tracking
+-	Order distribution across hubs
+-	Driver performance overview
+-	Vehicle utilization summary
 
 # Drivers Overview
 This page focuses on driver performance analysis.
