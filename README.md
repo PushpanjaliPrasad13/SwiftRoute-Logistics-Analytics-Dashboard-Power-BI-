@@ -85,9 +85,9 @@ This page analyzes hub performance and processing efficiency.
 -Displays the average number of hours required to process orders by day.
 
 # Insights
-•	Houston Hub performs best (83.4%)
-•	Austin Hub shows the lowest performance (~70%)
-•	Processing times vary across weekdays, indicating operational workload differences
+-	Houston Hub performs best (83.4%)
+-	Austin Hub shows the lowest performance (~70%)
+-	Processing times vary across weekdays, indicating operational workload differences
 
 # Vehicles Overview
 This page focuses on fleet performance and vehicle reliability.
