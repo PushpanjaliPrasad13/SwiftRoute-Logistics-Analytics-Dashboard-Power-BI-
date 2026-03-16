@@ -5,18 +5,18 @@
 # Project Overview
 The SwiftRoute Logistics Dashboard is an interactive Power BI solution designed to analyse logistics operations, monitor delivery performance, and optimize transportation efficiency.
 This dashboard provides a comprehensive view of logistics operations, including:
-•	Delivery performance tracking
-•	Driver efficiency analysis
-•	Hub capacity monitoring
-•	Vehicle utilization and maintenance tracking
+-	Delivery performance tracking
+-	Driver efficiency analysis
+-	Hub capacity monitoring
+-	Vehicle utilization and maintenance tracking
 The dashboard enables logistics managers and operations teams to make data-driven decisions to improve delivery performance, reduce delays, and optimize fleet management.
 
 #  Business Problem
 Logistics companies handle large volumes of deliveries, drivers, hubs, and vehicles daily. Without proper analytics, it becomes difficult to:
-•	Identify delivery delays
-•	Monitor hub performance
-•	Track driver efficiency
-•	Manage vehicle utilization
+-	Identify delivery delays
+-	Monitor hub performance
+-	Track driver efficiency
+-	Manage vehicle utilization
 This Power BI dashboard solves these challenges by centralizing logistics data into actionable insights.
 
 # Tools & Technologies
