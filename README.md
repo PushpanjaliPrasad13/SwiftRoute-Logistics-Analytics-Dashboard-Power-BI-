@@ -136,19 +136,19 @@ The company can improve performance by:
 
 # Skills Demonstrated
 This project demonstrates the following data analytics and BI skills:
-•	Data modelling in Power BI
-•	Data Transformation using Power Query
-•	KPI Development with DAX
-•	Logistics Data Analysis
-•	Interactive Dashboard Design
-•	Business Insight Generation
+-	Data modelling in Power BI
+-	Data Transformation using Power Query
+-	KPI Development with DAX
+-	Logistics Data Analysis
+-	Interactive Dashboard Design
+-	Business Insight Generation
 
 # Project Outcome
 This dashboard demonstrates how Power BI can transform logistics data into actionable insights, helping organizations:
-•	Improve delivery efficiency
-•	Optimize fleet utilization
-•	Identify operational bottlenecks
-•	Enhance customer satisfaction
+-	Improve delivery efficiency
+-	Optimize fleet utilization
+-	Identify operational bottlenecks
+-	Enhance customer satisfaction
 
 
 
