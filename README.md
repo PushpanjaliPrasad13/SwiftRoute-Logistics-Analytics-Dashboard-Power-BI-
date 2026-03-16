@@ -112,27 +112,27 @@ This page focuses on fleet performance and vehicle reliability.
 
 # Key Business Insights
 1. Delivery Efficiency
-•	On-time delivery is 80.5%, meaning ~1 in 5 deliveries are delayed
-•	Improving driver routing and hub efficiency can increase this rate.
+-	On-time delivery is 80.5%, meaning ~1 in 5 deliveries are delayed
+-	Improving driver routing and hub efficiency can increase this rate.
 
 2. Driver Performance
-•	Driver experience does not always correlate directly with performance
-•	Certain drivers consistently show higher delay rates.
+-	Driver experience does not always correlate directly with performance
+-	Certain drivers consistently show higher delay rates.
 
 3. Hub Operations
-•	Houston Hub is the best performing logistics center
-•	Austin Hub may require process improvements or capacity expansion
+-	Houston Hub is the best performing logistics center
+-	Austin Hub may require process improvements or capacity expansion
 
 4. Fleet Management
-•	Older vehicles break down more frequently
-•	Preventive maintenance strategies can reduce operational disruptions.
+-	Older vehicles break down more frequently
+-	Preventive maintenance strategies can reduce operational disruptions.
 
 5. Logistics Optimization Opportunity
 The company can improve performance by:
-•	Optimizing hub workloads
-•	Improving route planning
-•	Increasing fleet maintenance efficiency
-•	Addressing driver delay patterns
+-	Optimizing hub workloads
+-	Improving route planning
+-	Increasing fleet maintenance efficiency
+-	Addressing driver delay patterns
 
 # Skills Demonstrated
 This project demonstrates the following data analytics and BI skills:
