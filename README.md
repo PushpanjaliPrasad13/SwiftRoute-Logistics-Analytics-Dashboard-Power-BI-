@@ -20,12 +20,12 @@ Logistics companies handle large volumes of deliveries, drivers, hubs, and vehic
 This Power BI dashboard solves these challenges by centralizing logistics data into actionable insights.
 
 # Tools & Technologies
-•	Power BI Desktop
-•	Power Query (ETL)
-•	DAX (Data Analysis Expressions)
-•	Data Modelling
-•	Custom Visuals
-•	Interactive Dashboard Design
+-	Power BI Desktop
+-	Power Query (ETL)
+-	DAX (Data Analysis Expressions)
+-	Data Modelling
+-	Custom Visuals
+-	Interactive Dashboard Design
 
 # Dashboard Pages
 The dashboard contains four main analytical sections:
